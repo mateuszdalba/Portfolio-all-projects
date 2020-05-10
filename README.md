@@ -1,2 +1,5 @@
 # Portfolio
-Data Science portfolio
+Data Scientisit portoflio. 
+
+Include files: 
+- Wine classification problem
