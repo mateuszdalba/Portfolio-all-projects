@@ -14,5 +14,5 @@ Empik - zadanie rekrutacyjne, Mateusz Dalba.ipynb <br>
 - COVID-19 analysis: <br>
 COVID-19 Prediction.ipynb (created in DatabricksCommunity - not all results are visible) 
 
-Files are in Jupyter Notebook format. 
-To see results You can just open the files. 
+Files are in Jupyter Notebook format. <br>
+To see results just open the files. <br>
