@@ -1,5 +1,5 @@
 # Portfolio
-Mateusz Dalba
+Mateusz Dalba <br>
 Data Scientisit portoflio. 
 
 Include files: 
