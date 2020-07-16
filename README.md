@@ -13,7 +13,7 @@ Nestle - prediction.ipynb <br>
 Segmentacja.ipynb <br>
 
 - Subscribed or not (Classification): <br>
-xxxxx
+Subscribed_class.ipynb <br>
 
 - COVID-19 analysis: <br>
 COVID-19 Prediction.ipynb (created in DatabricksCommunity - not all results are visible) 
