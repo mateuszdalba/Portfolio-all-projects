@@ -1,6 +1,6 @@
 # Portfolio
 Mateusz Dalba <br>
-Data Scientisit portoflio. 
+Junior Data Scientisit portoflio. 
 
 Include projects: <br>
 - Wine Classification: <br>
